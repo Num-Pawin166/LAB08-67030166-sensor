@@ -3,7 +3,7 @@
 
 void sensor_init(void)
 {
-    print("Sensor init....\r\n")
+    printf("Sensor init....\r\n");
 }
 
 
